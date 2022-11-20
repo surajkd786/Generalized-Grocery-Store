@@ -10,4 +10,4 @@ Shoppable Web Application is created for customers to purchase any retail items 
 ```python manage.py runserver```
 
 # Demo
-![ShoppableGIF](https://github.com/surajkd786/Generalized-Grocery-Store/blob/main/ezgif.com-gif-maker(1).gif)
+![ShoppableGIF](https://github.com/surajkd786/Generalized-Grocery-Store/blob/main/ezgif.com-gif-maker(2).gif)
